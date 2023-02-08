@@ -1,0 +1,1 @@
+# embl-napari-workshop
